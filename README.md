@@ -1,10 +1,10 @@
-__My Script__
+__Multi Script__
 
 ```lua
--- MyScript v2
+-- MultiScript v2
 
 def whatIsCool():
-  return 'My Script!'
+  return 'Multi Script!'
 end
 
 debug whatIsCool()
